@@ -1,0 +1,19 @@
+body{
+    padding: 1%;
+    background-color: rgb(238, 238, 238)!important;
+}
+
+.profile-wrapper{
+    text-align: center;
+}
+
+.profile{
+    height: 200;
+    border-radius: 50%;
+    margin: auto;
+}
+
+.container,.row{
+    /* background-color: aqua; */
+    margin: auto;
+}
